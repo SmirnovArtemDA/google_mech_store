@@ -7,22 +7,22 @@
 #### ЦЕЛИ:
 1. Разобраться как работает такой инструмент, как BigQuery; 
 2. Научится делать запросы и выгружать данные из BigQuery;
-3. Провести обработку данных
-4. Провести первичный анализ данных
-5. Сегментировать аудиторию
-6. Определить ЦА на основе данных и данных из GA (демо аккаунт)
-7. Провести когортный анализ
-8. Построить модель данных, которая позвоилт определить факторы влияющие в покупку и средний чек
-9. Построить [дашборд](https://app.powerbi.com/view?r=eyJrIjoiYmU4YmYwOWQtNTc3MS00ZTAzLThkOWItNjVkNjExYmQxZTIyIiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9&pageName=ReportSection) в Power BI
-10. Определить факторы, влияющие на средний чек и выручку
+3. Провести обработку данных;
+4. Провести первичный анализ данных;
+5. Сегментировать аудиторию;
+6. Определить ЦА на основе данных и данных из GA (демо аккаунт);
+7. Провести когортный анализ;
+8. Построить модель данных, которая позвоилт определить факторы влияющие в покупку и средний чек;
+9. Построить [дашборд](https://app.powerbi.com/view?r=eyJrIjoiYmU4YmYwOWQtNTc3MS00ZTAzLThkOWItNjVkNjExYmQxZTIyIiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9&pageName=ReportSection) в Power BI;
+10. Определить факторы, влияющие на средний чек и выручку.
 
 ##### ИНСТРУМЕНТЫ:
-1. Google BigQuery
-2. Google analytics
-3. MS Excel (Построени многофакторной модели данных) 
-4. Python (Pandas, NumPy, matplotlib)
-5. SQL (запросы в BigQuery)
-6. MS Power BI
+1. Google BigQuery;
+2. Google analytics;
+3. MS Excel (Построениe многофакторной модели данных);
+4. Python (Pandas, NumPy, matplotlib);
+5. SQL (запросы в BigQuery);
+6. MS Power BI.
 
 
 #### Ход работы визуализировал с помощью UML схемы. 
